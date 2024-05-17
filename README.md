@@ -37,10 +37,6 @@ This is a simple calculator component built with React, using Material-UI for th
 - Click on the "=" button to calculate the result.
 - Click on the "Clear" button to clear the input.
 
-## Screenshots
-
-![Calculator Screenshot](./screenshot.png)
-
 ## Author
 
 - [Dipesh Adelkar](git remote add origin https://github.com/x-darkvanilla-x/)
