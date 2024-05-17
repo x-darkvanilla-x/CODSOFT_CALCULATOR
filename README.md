@@ -39,7 +39,7 @@ This is a simple calculator component built with React, using Material-UI for th
 
 ## Author
 
-- [Dipesh Adelkar](git remote add origin https://github.com/x-darkvanilla-x/)
+- [Dipesh Adelkar]!(https://github.com/x-darkvanilla-x/)
 
 Feel free to contribute by submitting a pull request!
 
